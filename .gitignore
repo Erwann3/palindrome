@@ -1,0 +1,9 @@
+*.o
+*~
+*.swp
+*.out
+*.a
+*.cor
+*.gcno
+/.vscode
+palindrome
